@@ -1,4 +1,4 @@
-# LeanAgriAssignment
+# Angular Posts Demo
 
 Follow this link to view the application : https://angular-posts-demo.herokuapp.com/
 Follow this link to view the code on github : https://github.com/riyapahuja1994/AngularPostsDemo 
